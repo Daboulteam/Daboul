@@ -6002,8 +6002,8 @@ if text == ("تحديث السورس") and DevDaboul(msg) then
 send(msg.chat_id_,msg.id_,'☑┇تم التحديث')
 os.execute('rm -rf Daboul.lua')
 os.execute('rm -rf start.lua')
-download_to_file('https://raw.githubusercontent.com/TEAMDaboulX/Daboulx/master/Daboul.lua', 'Daboul.lua') 
-download_to_file('https://raw.githubusercontent.com/TEAMDaboulX/Daboulx/master/start.lua', 'start.lua') 
+download_to_file('https://raw.githubusercontent.com/TEAMDaboul/Daboul/master/Daboul.lua', 'Daboul.lua') 
+download_to_file('https://raw.githubusercontent.com/TEAMDaboul/Daboul/master/start.lua', 'start.lua') 
 dofile('Daboul.lua')  
 return false
 end
@@ -6266,11 +6266,11 @@ Text = [[
 					
 ⚙️┇ welcome to Source
 ⌔━━━━━━━━━━━━━⌔
-[🦁┇DaboulX TEAM](t.me/DaboulX)
+[🦁┇Daboul TEAM](t.me/Daboul)
  ⌔━━━━━━━━━━━━━⌔
- 🔎┇ [INSTALL The Source](t.me/DaboulX)
+ 🔎┇ [INSTALL The Source](t.me/Daboul)
 ⌔━━━━━━━━━━━━━⌔
-🗃┇ [Source Files](t.me/DaboulX_files)
+🗃┇ [Source Files](t.me/Daboul_files)
 ⌔━━━━━━━━━━━━━⌔
 📥┇[ConnectDeV](t.me/Daboulbbot)
 ⌔━━━━━━━━━━━━━⌔
@@ -7054,8 +7054,8 @@ if text == "تحديث السورس 📥" then
 send(msg.chat_id_,msg.id_,'☑┇تم التحديث')
 os.execute('rm -rf Daboul.lua')
 os.execute('rm -rf start.lua')
-download_to_file('https://raw.githubusercontent.com/TEAMDaboulX/Daboulx/master/Daboul.lua', 'Daboul.lua') 
-download_to_file('https://raw.githubusercontent.com/TEAMDaboulX/Daboulx/master/start.lua', 'start.lua') 
+download_to_file('https://raw.githubusercontent.com/TEAMDaboul/Daboul/master/Daboul.lua', 'Daboul.lua') 
+download_to_file('https://raw.githubusercontent.com/TEAMDaboul/Daboul/master/start.lua', 'start.lua') 
 dofile('Daboul.lua')  
 return false
 end
