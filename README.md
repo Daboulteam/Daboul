@@ -8,7 +8,7 @@ Installation
 
 install :
 
-```https://github.com/DaboulAb/Daboul && cd Daboul && chmod +x install.sh && ./install.sh```
+```https://github.com/Daboulteam/Daboul && cd Daboul && chmod +x install.sh && ./install.sh```
 
 ______________________________________________________________________________________________________________________
 
